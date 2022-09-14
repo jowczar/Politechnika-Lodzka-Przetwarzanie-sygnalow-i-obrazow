@@ -1,1 +1,1 @@
-# przetwarzanie sygnałów i obrazów
+# Przetwarzanie sygnałów i obrazów
